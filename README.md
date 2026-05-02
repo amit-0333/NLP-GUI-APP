@@ -24,7 +24,7 @@ nlp-gui-app/
 
 ## How to Run
 1. Clone the repository  
-   git clone https://github.com/your-username/nlp-gui-app.git  
+   git clone https://github.com/amit-0333/NLP-GUI-APP
 
 2. Install dependencies  
    pip install -r requirements.txt  
